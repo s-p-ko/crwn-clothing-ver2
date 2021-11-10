@@ -40,9 +40,9 @@
 
 ☑ Container Pattern
 
----
+☑ Redux-Saga
 
-⬜ Redux-Saga
+---
 
 ⬜ React Hooks
 
