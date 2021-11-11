@@ -42,9 +42,9 @@
 
 ☑ Redux-Saga
 
----
+⬜ React Hooks - in progress...
 
-⬜ React Hooks
+---
 
 ⬜ Advanced React Hooks
 
