@@ -2,13 +2,13 @@
 
 ## Part Two.
 
-## _I continue to develop [this project](https://github.com/s-p-ko/crwn-clothing) further. For this I cloned its repo and separated out the front-end from the back-end express server._
+## _In order to have a fully functioning [e-commerce project](https://github.com/s-p-ko/crwn-clothing) with payments, it is needed to create a backend server for the Stripe payments. It was cloned its previous repo for this and the app was separated out the front-end from the back-end express server._
 
-## The training app of this part is deployed on [Heroku](https://crwnv2.herokuapp.com/)
+## The app of this part is deployed on [Heroku](https://crwnv2.herokuapp.com/)
 
-## _What was done before in [the Part One](https://github.com/s-p-ko/crwn-clothing):_
+## _What was done previously in [the Part One](https://github.com/s-p-ko/crwn-clothing):_
 
-### Master Project:
+## Master Project:
 
 ☑ Setting Up E-commerce Project
 
