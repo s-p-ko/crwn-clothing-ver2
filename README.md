@@ -1,10 +1,12 @@
-## Studying React with this course:
+# Studying React with this course: [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-# [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+## Part Two.
 
-## The training app deployed on [Cloudflare pages](https://crwn.pages.dev/)
+## _I continue to develop [this project](https://github.com/s-p-ko/crwn-clothing) further. For this I cloned its repo and separated out the front-end from the back-end express server._
 
-## Progress
+## The training app of this part is deployed on [Heroku](https://crwnv2.herokuapp.com/)
+
+## _What was done before in [the Part One](https://github.com/s-p-ko/crwn-clothing):_
 
 ### Master Project:
 
@@ -42,15 +44,21 @@
 
 ☑ Redux-Saga
 
-⬜ React Hooks - in progress...
+☑ React Hooks
+
+☑ Advanced React Hooks
 
 ---
 
-⬜ Advanced React Hooks
+## _The Part Two starts here. The project was cloned from [this repo](https://github.com/s-p-ko/crwn-clothing) and split into front-end and back-end parts_
 
-⬜ Stripe Payments Part 2 - Backend
+### What rests to done:
 
-⬜ Context API
+☑ Stripe Payments Part 2 - Backend
+
+---
+
+⬜ Context API - in progress...
 
 ⬜ GraphQL + Apollo
 
