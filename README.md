@@ -30,7 +30,7 @@
 
 ☑ Mat Stripe Payments Part 1
 
-☑ Deploying To Production
+☑ Deploying To Production - [deploy](https://crwnv1.herokuapp.com/) + [github](https://github.com/s-p-ko/crwn-clothing-ver1)
 
 ☑ CSS in JS - styled-components
 
@@ -56,11 +56,11 @@
 
 ☑ Stripe Payments Part 2 - Backend
 
+☑ Context API - [github](https://github.com/s-p-ko/react-context)
+
 ---
 
-⬜ Context API - in progress...
-
-⬜ GraphQL + Apollo
+⬜ GraphQL + Apollo - in progress...
 
 ⬜ Mobile Support
 
