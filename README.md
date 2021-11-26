@@ -58,10 +58,10 @@
 
 ☑ Context API - [github](https://github.com/s-p-ko/react-context)
 
+☑ GraphQL + Apollo - [github](https://github.com/s-p-ko/crwn-clothing-graphql-apollo)
+
 ---
 
-⬜ GraphQL + Apollo - in progress...
-
-⬜ Mobile Support
+⬜ Mobile Support - in progress...
 
 ⬜ React Performance
