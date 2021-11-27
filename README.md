@@ -60,8 +60,8 @@
 
 ☑ GraphQL + Apollo - [github](https://github.com/s-p-ko/crwn-clothing-graphql-apollo)
 
+☑ Mobile Support
+
 ---
 
-⬜ Mobile Support - in progress...
-
-⬜ React Performance
+⬜ React Performance - in progress...
