@@ -62,6 +62,6 @@
 
 ☑ Mobile Support
 
----
+☑ React Performance
 
-⬜ React Performance - in progress...
+<!-- - in progress... -->
