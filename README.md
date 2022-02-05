@@ -52,8 +52,6 @@
 
 ## _The Part Two starts here. The project was cloned from [this repo](https://github.com/s-p-ko/crwn-clothing) and split into front-end and back-end parts_
 
-### What rests to done:
-
 ☑ Stripe Payments Part 2 - Backend
 
 ☑ Context API - [github](https://github.com/s-p-ko/react-context)
